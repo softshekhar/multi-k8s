@@ -1,1 +1,4 @@
 .DS_Store
+client/node_modules/
+worker/node_modules/
+service/node_modules/
