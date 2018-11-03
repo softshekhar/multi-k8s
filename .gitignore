@@ -2,3 +2,6 @@
 client/node_modules/
 worker/node_modules/
 service/node_modules/
+client/package-lock.json
+worker/package-lock.json
+service/package-lock.json
